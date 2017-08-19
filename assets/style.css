@@ -2,6 +2,14 @@ body {
     background: url(http://www.pptbackgroundstemplates.com/backgrounds/Crystal-Cube-PPT-Backgrounds.jpg);
 }
 
+.panel-title {}
+
+#.col {
+    border: solid;
+}
+
+#start {}
+
 
 /*// Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap
